@@ -39,7 +39,8 @@ ai-vs-human-platform/
 │ ├── main.js
 │ ├── battle.js
 │ └── game.js
-
+├── backend/
+|  └── app.py
 
 ---
 
