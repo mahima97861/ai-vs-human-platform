@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Battle Arena</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="bg-animation"></div>
+<div id="particles-js"></div>
+
+<header>
+  <h2>⚔ Battle Arena</h2>
+  <a href="index.html">⬅ Home</a>
+</header>
+
+<div class="container">
+  <p class="question" id="question"></p>
+
+  <input id="answer" placeholder="Enter your answer">
+  <br>
+
+  <button onclick="checkAnswer()">Submit</button>
+
+  <p class="result" id="result"></p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
+<script src="js/battle.js"></script>
+
+<script>
+particlesJS("particles-js", {
+  particles: { number: { value: 50 }, move: { speed: 2 } }
+});
+</script>
+
+</body>
+</html>
