@@ -8,7 +8,7 @@ The platform combines education and entertainment by allowing users to test thei
 
 Built using modern web technologies, the project focuses on creating an immersive user experience through dynamic animations, gamification, responsive design, and visually appealing interfaces.
 
----
+----
 
 ## 🎯 Project Objectives
 
@@ -18,7 +18,7 @@ Built using modern web technologies, the project focuses on creating an immersiv
 * Demonstrate modern front-end web development skills.
 * Provide an attractive and responsive user experience.
 
----
+----
 
 ## ✨ Key Features
 
@@ -39,7 +39,7 @@ An interactive quiz system where users answer questions related to:
 * Dynamic scoring system
 * Performance tracking
 
----
+----
 
 ### 🎮 Guess AI or Human Game
 
@@ -50,7 +50,7 @@ A fun challenge where users analyze content and predict whether it was generated
 
 This game helps users understand the growing capabilities of modern AI systems.
 
----
+----
 
 ### 📊 Real-Time Score Tracking
 
